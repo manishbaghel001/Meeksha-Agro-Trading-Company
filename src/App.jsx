@@ -107,7 +107,7 @@ function Hero() {
         <div className="container hero__inner">
           <img
             className="hero__logo"
-            src={`${BASE}meeksha-logo.jpg`}
+            src={`${BASE}meeksha-logo.png`}
             alt="Meeksha — Serving Farmers with Trust"
           />
           <h1>
